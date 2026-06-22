@@ -1,0 +1,327 @@
+Disease,Symptom,Weight
+(vertigo) Paroymsal  Positional Vertigo,headache,114
+(vertigo) Paroymsal  Positional Vertigo,loss_of_balance,114
+(vertigo) Paroymsal  Positional Vertigo,nausea,114
+(vertigo) Paroymsal  Positional Vertigo,spinning_movements,108
+(vertigo) Paroymsal  Positional Vertigo,unsteadiness,114
+(vertigo) Paroymsal  Positional Vertigo,vomiting,114
+AIDS,extra_marital_contacts,108
+AIDS,high_fever,114
+AIDS,muscle_wasting,108
+AIDS,patches_in_throat,108
+Acne,blackheads,108
+Acne,pus_filled_pimples,108
+Acne,scurring,108
+Acne,skin_rash,114
+Alcoholic hepatitis,abdominal_pain,114
+Alcoholic hepatitis,distention_of_abdomen,114
+Alcoholic hepatitis,fluid_overload,114
+Alcoholic hepatitis,history_of_alcohol_consumption,114
+Alcoholic hepatitis,swelling_of_stomach,114
+Alcoholic hepatitis,vomiting,114
+Alcoholic hepatitis,yellowish_skin,114
+Allergy,chills,108
+Allergy,continuous_sneezing,108
+Allergy,shivering,108
+Allergy,watering_from_eyes,108
+Arthritis,movement_stiffness,114
+Arthritis,muscle_weakness,114
+Arthritis,painful_walking,114
+Arthritis,stiff_neck,114
+Arthritis,swelling_joints,114
+Bronchial Asthma,breathlessness,114
+Bronchial Asthma,cough,108
+Bronchial Asthma,family_history,114
+Bronchial Asthma,fatigue,108
+Bronchial Asthma,high_fever,114
+Bronchial Asthma,mucoid_sputum,114
+Cervical spondylosis,back_pain,108
+Cervical spondylosis,dizziness,114
+Cervical spondylosis,loss_of_balance,114
+Cervical spondylosis,neck_pain,114
+Cervical spondylosis,weakness_in_limbs,108
+Chicken pox,fatigue,114
+Chicken pox,headache,114
+Chicken pox,high_fever,114
+Chicken pox,itching,114
+Chicken pox,lethargy,114
+Chicken pox,loss_of_appetite,114
+Chicken pox,malaise,120
+Chicken pox,mild_fever,114
+Chicken pox,red_spots_over_body,120
+Chicken pox,skin_rash,114
+Chicken pox,swelled_lymph_nodes,114
+Chronic cholestasis,abdominal_pain,114
+Chronic cholestasis,itching,114
+Chronic cholestasis,loss_of_appetite,114
+Chronic cholestasis,nausea,114
+Chronic cholestasis,vomiting,114
+Chronic cholestasis,yellowing_of_eyes,114
+Chronic cholestasis,yellowish_skin,114
+Common Cold,chest_pain,120
+Common Cold,chills,114
+Common Cold,congestion,120
+Common Cold,continuous_sneezing,114
+Common Cold,cough,114
+Common Cold,fatigue,114
+Common Cold,headache,114
+Common Cold,high_fever,114
+Common Cold,loss_of_smell,120
+Common Cold,malaise,114
+Common Cold,muscle_pain,120
+Common Cold,phlegm,120
+Common Cold,redness_of_eyes,120
+Common Cold,runny_nose,120
+Common Cold,sinus_pressure,120
+Common Cold,swelled_lymph_nodes,114
+Common Cold,throat_irritation,120
+Dengue,back_pain,120
+Dengue,chills,114
+Dengue,fatigue,114
+Dengue,headache,120
+Dengue,high_fever,114
+Dengue,joint_pain,114
+Dengue,loss_of_appetite,120
+Dengue,malaise,114
+Dengue,muscle_pain,114
+Dengue,nausea,120
+Dengue,pain_behind_the_eyes,120
+Dengue,red_spots_over_body,114
+Dengue,skin_rash,114
+Dengue,vomiting,114
+Diabetes,blurred_and_distorted_vision,114
+Diabetes,dizziness,4
+Diabetes,excessive_hunger,114
+Diabetes,fatigue,119
+Diabetes,increased_appetite,120
+Diabetes,irregular_sugar,2
+Diabetes,irregular_sugar_level,114
+Diabetes,lethargy,114
+Diabetes,obesity,114
+Diabetes,polyuria,120
+Diabetes,restlessness,114
+Diabetes,weight_loss,114
+Dimorphic hemmorhoids(piles),bloody_stool,114
+Dimorphic hemmorhoids(piles),constipation,114
+Dimorphic hemmorhoids(piles),irritation_in_anus,114
+Dimorphic hemmorhoids(piles),pain_during_bowel_movements,114
+Dimorphic hemmorhoids(piles),pain_in_anal_region,114
+Drug Reaction,burning_micturition,108
+Drug Reaction,itching,114
+Drug Reaction,skin_rash,108
+Drug Reaction,spotting_ urination,108
+Drug Reaction,stomach_pain,108
+Fungal infection,dischromic _patches,108
+Fungal infection,itching,108
+Fungal infection,nodal_skin_eruptions,108
+Fungal infection,skin_rash,108
+GERD,acidity,108
+GERD,chest_pain,114
+GERD,cough,114
+GERD,stomach_pain,114
+GERD,ulcers_on_tongue,108
+GERD,vomiting,108
+Gastroenteritis,dehydration,108
+Gastroenteritis,diarrhoea,114
+Gastroenteritis,sunken_eyes,108
+Gastroenteritis,vomiting,108
+Heart attack,breathlessness,108
+Heart attack,chest_pain,114
+Heart attack,fatigue,3
+Heart attack,restlessness,3
+Heart attack,sweating,108
+Heart attack,swelling_ankles,2
+Heart attack,vomiting,108
+Hepatitis B,abdominal_pain,114
+Hepatitis B,dark_urine,114
+Hepatitis B,fatigue,114
+Hepatitis B,itching,114
+Hepatitis B,lethargy,114
+Hepatitis B,loss_of_appetite,114
+Hepatitis B,malaise,120
+Hepatitis B,receiving_blood_transfusion,120
+Hepatitis B,receiving_unsterile_injections,120
+Hepatitis B,yellow_urine,114
+Hepatitis B,yellowing_of_eyes,120
+Hepatitis B,yellowish_skin,114
+Hepatitis C,family_history,114
+Hepatitis C,fatigue,114
+Hepatitis C,loss_of_appetite,114
+Hepatitis C,nausea,114
+Hepatitis C,yellowing_of_eyes,108
+Hepatitis C,yellowish_skin,114
+Hepatitis D,abdominal_pain,114
+Hepatitis D,dark_urine,114
+Hepatitis D,fatigue,114
+Hepatitis D,joint_pain,114
+Hepatitis D,loss_of_appetite,114
+Hepatitis D,nausea,114
+Hepatitis D,vomiting,114
+Hepatitis D,yellowing_of_eyes,114
+Hepatitis D,yellowish_skin,114
+Hepatitis E,abdominal_pain,120
+Hepatitis E,acute_liver_failure,114
+Hepatitis E,coma,120
+Hepatitis E,dark_urine,114
+Hepatitis E,fatigue,114
+Hepatitis E,high_fever,114
+Hepatitis E,joint_pain,114
+Hepatitis E,loss_of_appetite,120
+Hepatitis E,nausea,114
+Hepatitis E,stomach_bleeding,120
+Hepatitis E,vomiting,114
+Hepatitis E,yellowing_of_eyes,120
+Hepatitis E,yellowish_skin,114
+Hypertension,chest_pain,108
+Hypertension,dizziness,108
+Hypertension,headache,108
+Hypertension,lack_of_concentration,114
+Hypertension,loss_of_balance,114
+Hyperthyroidism,abnormal_menstruation,120
+Hyperthyroidism,diarrhoea,114
+Hyperthyroidism,excessive_hunger,114
+Hyperthyroidism,fast_heart_rate,114
+Hyperthyroidism,fatigue,114
+Hyperthyroidism,irritability,120
+Hyperthyroidism,mood_swings,114
+Hyperthyroidism,muscle_weakness,120
+Hyperthyroidism,restlessness,114
+Hyperthyroidism,sweating,114
+Hyperthyroidism,weight_loss,114
+Hypoglycemia,anxiety,114
+Hypoglycemia,blurred_and_distorted_vision,114
+Hypoglycemia,drying_and_tingling_lips,114
+Hypoglycemia,excessive_hunger,120
+Hypoglycemia,fatigue,114
+Hypoglycemia,headache,114
+Hypoglycemia,irritability,120
+Hypoglycemia,nausea,114
+Hypoglycemia,palpitations,120
+Hypoglycemia,slurred_speech,120
+Hypoglycemia,sweating,114
+Hypoglycemia,vomiting,114
+Hypothyroidism,abnormal_menstruation,120
+Hypothyroidism,brittle_nails,120
+Hypothyroidism,cold_hands_and_feets,114
+Hypothyroidism,depression,120
+Hypothyroidism,dizziness,114
+Hypothyroidism,enlarged_thyroid,120
+Hypothyroidism,fatigue,108
+Hypothyroidism,irritability,120
+Hypothyroidism,lethargy,114
+Hypothyroidism,mood_swings,114
+Hypothyroidism,puffy_face_and_eyes,114
+Hypothyroidism,swollen_extremeties,120
+Hypothyroidism,weight_gain,114
+Impetigo,blister,114
+Impetigo,high_fever,102
+Impetigo,red_sore_around_nose,114
+Impetigo,skin_rash,114
+Impetigo,yellow_crust_ooze,114
+Jaundice,abdominal_pain,114
+Jaundice,dark_urine,114
+Jaundice,fatigue,114
+Jaundice,high_fever,114
+Jaundice,itching,114
+Jaundice,vomiting,114
+Jaundice,weight_loss,114
+Jaundice,yellowish_skin,114
+Malaria,chills,114
+Malaria,diarrhoea,108
+Malaria,headache,114
+Malaria,high_fever,114
+Malaria,muscle_pain,120
+Malaria,nausea,114
+Malaria,sweating,114
+Malaria,vomiting,114
+Migraine,acidity,114
+Migraine,blurred_and_distorted_vision,114
+Migraine,depression,114
+Migraine,excessive_hunger,114
+Migraine,headache,114
+Migraine,indigestion,114
+Migraine,irritability,114
+Migraine,stiff_neck,114
+Migraine,visual_disturbances,114
+Osteoarthristis,hip_joint_pain,114
+Osteoarthristis,joint_pain,114
+Osteoarthristis,knee_pain,114
+Osteoarthristis,neck_pain,114
+Osteoarthristis,painful_walking,114
+Osteoarthristis,swelling_joints,114
+Paralysis (brain hemorrhage),altered_sensorium,114
+Paralysis (brain hemorrhage),headache,108
+Paralysis (brain hemorrhage),vomiting,108
+Paralysis (brain hemorrhage),weakness_of_one_body_side,108
+Peptic ulcer diseae,abdominal_pain,114
+Peptic ulcer diseae,indigestion,108
+Peptic ulcer diseae,internal_itching,114
+Peptic ulcer diseae,loss_of_appetite,108
+Peptic ulcer diseae,passage_of_gases,114
+Peptic ulcer diseae,vomiting,114
+Pneumonia,breathlessness,114
+Pneumonia,chest_pain,120
+Pneumonia,chills,114
+Pneumonia,cough,114
+Pneumonia,fast_heart_rate,120
+Pneumonia,fatigue,114
+Pneumonia,high_fever,114
+Pneumonia,malaise,114
+Pneumonia,phlegm,114
+Pneumonia,rusty_sputum,120
+Pneumonia,sweating,114
+Psoriasis,inflammatory_nails,114
+Psoriasis,joint_pain,114
+Psoriasis,silver_like_dusting,114
+Psoriasis,skin_peeling,114
+Psoriasis,skin_rash,114
+Psoriasis,small_dents_in_nails,114
+Tuberculosis,blood_in_sputum,120
+Tuberculosis,breathlessness,114
+Tuberculosis,chest_pain,120
+Tuberculosis,chills,114
+Tuberculosis,cough,114
+Tuberculosis,fatigue,114
+Tuberculosis,high_fever,114
+Tuberculosis,loss_of_appetite,120
+Tuberculosis,malaise,120
+Tuberculosis,mild_fever,120
+Tuberculosis,phlegm,120
+Tuberculosis,sweating,114
+Tuberculosis,swelled_lymph_nodes,120
+Tuberculosis,vomiting,114
+Tuberculosis,weight_loss,114
+Tuberculosis,yellowing_of_eyes,120
+Typhoid,abdominal_pain,114
+Typhoid,belly_pain,114
+Typhoid,chills,120
+Typhoid,constipation,114
+Typhoid,diarrhoea,114
+Typhoid,fatigue,120
+Typhoid,headache,114
+Typhoid,high_fever,120
+Typhoid,nausea,114
+Typhoid,toxic_look_(typhos),114
+Typhoid,vomiting,114
+Urinary tract infection,bladder_discomfort,114
+Urinary tract infection,burning_micturition,108
+Urinary tract infection,continuous_feel_of_urine,114
+Urinary tract infection,foul_smell_of urine,102
+Varicose veins,bruising,114
+Varicose veins,cramps,114
+Varicose veins,fatigue,114
+Varicose veins,obesity,114
+Varicose veins,prominent_veins_on_calf,114
+Varicose veins,swollen_blood_vessels,108
+Varicose veins,swollen_legs,114
+hepatitis A,abdominal_pain,114
+hepatitis A,dark_urine,114
+hepatitis A,diarrhoea,114
+hepatitis A,joint_pain,114
+hepatitis A,loss_of_appetite,114
+hepatitis A,mild_fever,120
+hepatitis A,muscle_pain,120
+hepatitis A,nausea,114
+hepatitis A,vomiting,114
+hepatitis A,yellowing_of_eyes,120
+hepatitis A,yellowish_skin,114

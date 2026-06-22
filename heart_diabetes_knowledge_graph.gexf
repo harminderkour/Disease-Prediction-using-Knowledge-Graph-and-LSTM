@@ -1,0 +1,223 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-10-07">
+    <creator>NetworkX 3.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="1" title="relation" type="string" />
+    </attributes>
+    <attributes mode="static" class="node">
+      <attribute id="0" title="type" type="string" />
+    </attributes>
+    <nodes>
+      <node id="Diabetes " label="Diabetes ">
+        <attvalues>
+          <attvalue for="0" value="disease" />
+        </attvalues>
+      </node>
+      <node id=" fatigue" label=" fatigue">
+        <attvalues>
+          <attvalue for="0" value="symptom" />
+        </attvalues>
+      </node>
+      <node id=" weight_loss" label=" weight_loss">
+        <attvalues>
+          <attvalue for="0" value="symptom" />
+        </attvalues>
+      </node>
+      <node id=" restlessness" label=" restlessness">
+        <attvalues>
+          <attvalue for="0" value="symptom" />
+        </attvalues>
+      </node>
+      <node id=" lethargy" label=" lethargy">
+        <attvalues>
+          <attvalue for="0" value="symptom" />
+        </attvalues>
+      </node>
+      <node id=" irregular_sugar_level" label=" irregular_sugar_level">
+        <attvalues>
+          <attvalue for="0" value="symptom" />
+        </attvalues>
+      </node>
+      <node id=" blurred_and_distorted_vision" label=" blurred_and_distorted_vision">
+        <attvalues>
+          <attvalue for="0" value="symptom" />
+        </attvalues>
+      </node>
+      <node id=" obesity" label=" obesity">
+        <attvalues>
+          <attvalue for="0" value="symptom" />
+        </attvalues>
+      </node>
+      <node id=" excessive_hunger" label=" excessive_hunger">
+        <attvalues>
+          <attvalue for="0" value="symptom" />
+        </attvalues>
+      </node>
+      <node id=" increased_appetite" label=" increased_appetite">
+        <attvalues>
+          <attvalue for="0" value="symptom" />
+        </attvalues>
+      </node>
+      <node id=" polyuria" label=" polyuria">
+        <attvalues>
+          <attvalue for="0" value="symptom" />
+        </attvalues>
+      </node>
+      <node id="dizziness" label="dizziness">
+        <attvalues>
+          <attvalue for="0" value="symptom" />
+        </attvalues>
+      </node>
+      <node id="fatigue" label="fatigue">
+        <attvalues>
+          <attvalue for="0" value="symptom" />
+        </attvalues>
+      </node>
+      <node id="irregular_sugar" label="irregular_sugar">
+        <attvalues>
+          <attvalue for="0" value="symptom" />
+        </attvalues>
+      </node>
+      <node id="Heart attack" label="Heart attack">
+        <attvalues>
+          <attvalue for="0" value="disease" />
+        </attvalues>
+      </node>
+      <node id=" vomiting" label=" vomiting">
+        <attvalues>
+          <attvalue for="0" value="symptom" />
+        </attvalues>
+      </node>
+      <node id=" breathlessness" label=" breathlessness">
+        <attvalues>
+          <attvalue for="0" value="symptom" />
+        </attvalues>
+      </node>
+      <node id=" sweating" label=" sweating">
+        <attvalues>
+          <attvalue for="0" value="symptom" />
+        </attvalues>
+      </node>
+      <node id=" chest_pain" label=" chest_pain">
+        <attvalues>
+          <attvalue for="0" value="symptom" />
+        </attvalues>
+      </node>
+      <node id="restlessness" label="restlessness">
+        <attvalues>
+          <attvalue for="0" value="symptom" />
+        </attvalues>
+      </node>
+      <node id="swelling_ankles" label="swelling_ankles">
+        <attvalues>
+          <attvalue for="0" value="symptom" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Diabetes " target=" fatigue" id="0">
+        <attvalues>
+          <attvalue for="1" value="has_symptom" />
+        </attvalues>
+      </edge>
+      <edge source="Diabetes " target=" weight_loss" id="1">
+        <attvalues>
+          <attvalue for="1" value="has_symptom" />
+        </attvalues>
+      </edge>
+      <edge source="Diabetes " target=" restlessness" id="2">
+        <attvalues>
+          <attvalue for="1" value="has_symptom" />
+        </attvalues>
+      </edge>
+      <edge source="Diabetes " target=" lethargy" id="3">
+        <attvalues>
+          <attvalue for="1" value="has_symptom" />
+        </attvalues>
+      </edge>
+      <edge source="Diabetes " target=" irregular_sugar_level" id="4">
+        <attvalues>
+          <attvalue for="1" value="has_symptom" />
+        </attvalues>
+      </edge>
+      <edge source="Diabetes " target=" blurred_and_distorted_vision" id="5">
+        <attvalues>
+          <attvalue for="1" value="has_symptom" />
+        </attvalues>
+      </edge>
+      <edge source="Diabetes " target=" obesity" id="6">
+        <attvalues>
+          <attvalue for="1" value="has_symptom" />
+        </attvalues>
+      </edge>
+      <edge source="Diabetes " target=" excessive_hunger" id="7">
+        <attvalues>
+          <attvalue for="1" value="has_symptom" />
+        </attvalues>
+      </edge>
+      <edge source="Diabetes " target=" increased_appetite" id="8">
+        <attvalues>
+          <attvalue for="1" value="has_symptom" />
+        </attvalues>
+      </edge>
+      <edge source="Diabetes " target=" polyuria" id="9">
+        <attvalues>
+          <attvalue for="1" value="has_symptom" />
+        </attvalues>
+      </edge>
+      <edge source="Diabetes " target="dizziness" id="10">
+        <attvalues>
+          <attvalue for="1" value="has_symptom" />
+        </attvalues>
+      </edge>
+      <edge source="Diabetes " target="fatigue" id="11">
+        <attvalues>
+          <attvalue for="1" value="has_symptom" />
+        </attvalues>
+      </edge>
+      <edge source="Diabetes " target="irregular_sugar" id="12">
+        <attvalues>
+          <attvalue for="1" value="has_symptom" />
+        </attvalues>
+      </edge>
+      <edge source="Heart attack" target=" vomiting" id="13">
+        <attvalues>
+          <attvalue for="1" value="has_symptom" />
+        </attvalues>
+      </edge>
+      <edge source="Heart attack" target=" breathlessness" id="14">
+        <attvalues>
+          <attvalue for="1" value="has_symptom" />
+        </attvalues>
+      </edge>
+      <edge source="Heart attack" target=" sweating" id="15">
+        <attvalues>
+          <attvalue for="1" value="has_symptom" />
+        </attvalues>
+      </edge>
+      <edge source="Heart attack" target=" chest_pain" id="16">
+        <attvalues>
+          <attvalue for="1" value="has_symptom" />
+        </attvalues>
+      </edge>
+      <edge source="Heart attack" target="restlessness" id="17">
+        <attvalues>
+          <attvalue for="1" value="has_symptom" />
+        </attvalues>
+      </edge>
+      <edge source="Heart attack" target="swelling_ankles" id="18">
+        <attvalues>
+          <attvalue for="1" value="has_symptom" />
+        </attvalues>
+      </edge>
+      <edge source="Heart attack" target="fatigue" id="19">
+        <attvalues>
+          <attvalue for="1" value="has_symptom" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
